@@ -1,3 +1,7 @@
+Please select any template from https://www.posternerd.com/sciposters-templates and make the poster for your paper/project
+Examples of the poster and guidelines are given below
+
+
 ## Poster Specifications:
 - **Size**: Posters should be no wider than 91 cm (36 in) and no taller than 122 cm (48 in), in vertical (portrait) orientation. A0 paper in portrait orientation fits these dimensions.
 
